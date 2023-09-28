@@ -8,6 +8,7 @@ echo
 #checking systemt uptime
 echo "#####################################"
 echo "The uptime of the system is: "
+echo "You will find it here"
 uptime
 echo
 
